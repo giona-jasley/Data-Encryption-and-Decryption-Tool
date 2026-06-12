@@ -42,7 +42,7 @@ Data_Encryption_Decryption_Tool/
 
 Clone the Repository
 
-git clone <repository_link>
+git clone https://github.com/giona-jasley/Data-Encryption-and-Decryption-Tool/tree/main/Data%20Encryption%20Decryption%20Tool
 
 Install Required Libraries
 
